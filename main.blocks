@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="4`!Ce5y69hNO$,-pK1iO" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="BXxm3`[W,*^$,Ckb3xcA"><value name="text"><shadow type="text" id="~iJ6^mQ9C??!R!`fCZ-U"><field name="TEXT">Jeg er et som et virus </field></shadow></value><next><block type="device_show_leds" id="9oEeZEU-tLHE5L|5PBqn"><field name="LEDS">`
+        . . . # . 
+        . . . . # 
+        # # # # . 
+        . # . . . 
+        . . . . #
+        `</field><next><block type="controls_repeat_ext" id="zNlf.[?!~Ov4*JR;sv*J"><value name="TIMES"><shadow type="math_whole_number" id="G%;g,-wt6`yLkr=Gk=Ll"><field name="NUM">4</field></shadow></value><next><block type="basic_show_icon" id="{}4_+o$rZKi4%/tF~WkI"><field name="i">IconNames.Heart</field><next><block type="device_pause" id="k8}z,%v,14$#6Y:r1E2|"><value name="pause"><shadow type="timePicker" id="/%ScJ{RPQv9Tod7:jKkg"><field name="ms">100</field></shadow></value><next><block type="device_print_message" id="pLNQzyY(BxROSGJ8adhN"><value name="text"><shadow type="text" id="f}],1q2N57E.t.(vgRrz"><field name="TEXT">Frida er emo</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_forever" id="CG!FG-Ek,e(a|[TeU%kS" x="-12" y="678"></block><block type="device_get_sound_level" id="|G%jfOE`s-2f=]eaoThj" disabled="true" x="46" y="722"></block></xml>
